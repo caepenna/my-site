@@ -1,7 +1,14 @@
 site_url: http://your-website.com
 
-name: Goku
-title: ciclista
-description: firmeza
-function: "que finge que entende de"
-area: "marxismo"
+name: 
+  - Goku
+  - Caê
+  - Carlos Eduardo
+title:
+  - Ciclista
+description:
+  - firmeza
+function:
+  - que finge que entende de
+area:
+  - marxismo

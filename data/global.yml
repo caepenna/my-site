@@ -1,8 +1,7 @@
 site_url: http://your-website.com
 
-hero: 
-  - name: Goku
-    title: ciclista
-    description: firmeza
-    function: "que finge que entende de"
-    area: "marxismo"
+name: Goku
+title: ciclista
+description: firmeza
+function: "que finge que entende de"
+area: "marxismo"

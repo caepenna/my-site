@@ -4,18 +4,19 @@ name:
   - Caê
   - Carlos Eduardo
   - ?
+  - ^
 title:
-  - designer
-  - projetista
-  - codificador
-  - ativista
-  - hacker
-  - hipster
-  - tilelê
-  - artista
-  - micreiro
-  - ciclista
-  - humano
+  - Designer
+  - Projetista
+  - Codificador
+  - Ativista
+  - Hacker
+  - Hipster
+  - Tilelê
+  - Artista
+  - Micreiro
+  - Ciclista
+  - Humano
 description:
   - brasileiro
   - web
@@ -27,6 +28,7 @@ description:
   - 2.0
 function:
   - que trabalha na área de
+  - convive diariamente com
   - com anos de experiência em
   - que finge que entende de
   - que finge que gosta de

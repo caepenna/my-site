@@ -8,6 +8,8 @@ body
   font-size: 16px
   color: $color-foreground
   background-color: $color-background
+  font-family: 'Maison Neue'
+  font-weight: 500
 
 h1
   font-size: calc(2rem + 6.25vw)
@@ -16,3 +18,12 @@ h1
 p
   margin-top: calc(1rem + 3.125vw)
   font-size: calc(1rem + 3.125vw)
+
+p > span,
+h1 > span,
+    color: $color-background
+    background-color: rgba($color-foreground, 0.8)
+    box-shadow: 0 0 0 4px rgba($color-foreground, 0.8)
+
+    &:hover
+      opacity: 0.5

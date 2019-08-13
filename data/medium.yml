@@ -1,10 +1,38 @@
 ---
-combos: 265647
-votes: 265959
-votes_per_combo: 0.9988268868509808
-up_votes: 135550
+combos: 265651
+votes: 265963
+votes_per_combo: 0.9988269044942342
+up_votes: 135554
 down_votes: 130409
 latest_20:
+- id: 265883
+  color_one: "#144768"
+  color_two: "#64e805"
+  created_at: '2019-08-13T02:40:38.897Z'
+  updated_at: '2019-08-13T02:40:38.897Z'
+  contrast: 
+  votes_count: 1
+- id: 265882
+  color_one: "#ed0ce0"
+  color_two: "#15062d"
+  created_at: '2019-08-13T02:40:37.700Z'
+  updated_at: '2019-08-13T02:40:37.700Z'
+  contrast: 
+  votes_count: 1
+- id: 265881
+  color_one: "#edf564"
+  color_two: "#5e327f"
+  created_at: '2019-08-13T02:40:37.427Z'
+  updated_at: '2019-08-13T02:40:37.427Z'
+  contrast: 
+  votes_count: 1
+- id: 265880
+  color_one: "#03ac34"
+  color_two: "#4f0a09"
+  created_at: '2019-08-13T02:40:37.422Z'
+  updated_at: '2019-08-13T02:40:37.422Z'
+  contrast: 
+  votes_count: 1
 - id: 265879
   color_one: "#acdb26"
   color_two: "#6109b9"
@@ -115,34 +143,6 @@ latest_20:
   color_two: "#96e450"
   created_at: '2019-08-13T00:45:13.273Z'
   updated_at: '2019-08-13T00:45:13.273Z'
-  contrast: 
-  votes_count: 1
-- id: 265831
-  color_one: "#252144"
-  color_two: "#c09959"
-  created_at: '2019-08-12T20:15:17.447Z'
-  updated_at: '2019-08-12T20:15:17.447Z'
-  contrast: 
-  votes_count: 1
-- id: 265830
-  color_one: "#d424f5"
-  color_two: "#0b0b2c"
-  created_at: '2019-08-12T19:43:17.889Z'
-  updated_at: '2019-08-12T19:43:17.889Z'
-  contrast: 
-  votes_count: 1
-- id: 265829
-  color_one: "#dba396"
-  color_two: "#3e1865"
-  created_at: '2019-08-12T19:43:15.960Z'
-  updated_at: '2019-08-12T19:43:15.960Z'
-  contrast: 
-  votes_count: 1
-- id: 265828
-  color_one: "#96abc9"
-  color_two: "#452028"
-  created_at: '2019-08-12T19:43:13.350Z'
-  updated_at: '2019-08-12T19:43:13.350Z'
   contrast: 
   votes_count: 1
 most_active_20:

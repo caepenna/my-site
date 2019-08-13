@@ -1,0 +1,288 @@
+---
+combos: 265647
+votes: 265959
+votes_per_combo: 0.9988268868509808
+up_votes: 135550
+down_votes: 130409
+latest_20:
+- id: 265879
+  color_one: "#acdb26"
+  color_two: "#6109b9"
+  created_at: '2019-08-13T02:12:45.061Z'
+  updated_at: '2019-08-13T02:12:45.061Z'
+  contrast: 
+  votes_count: 1
+- id: 265878
+  color_one: "#9576fb"
+  color_two: "#20150c"
+  created_at: '2019-08-13T02:12:34.835Z'
+  updated_at: '2019-08-13T02:12:34.835Z'
+  contrast: 
+  votes_count: 1
+- id: 265877
+  color_one: "#7ef70b"
+  color_two: "#5626b3"
+  created_at: '2019-08-13T02:10:55.800Z'
+  updated_at: '2019-08-13T02:10:55.800Z'
+  contrast: 
+  votes_count: 1
+- id: 265876
+  color_one: "#3bff24"
+  color_two: "#0d3383"
+  created_at: '2019-08-13T02:10:54.295Z'
+  updated_at: '2019-08-13T02:10:54.295Z'
+  contrast: 
+  votes_count: 1
+- id: 265875
+  color_one: "#d3e994"
+  color_two: "#1011e7"
+  created_at: '2019-08-13T02:10:53.934Z'
+  updated_at: '2019-08-13T02:10:53.934Z'
+  contrast: 
+  votes_count: 1
+- id: 265874
+  color_one: "#8d5d27"
+  color_two: "#dff552"
+  created_at: '2019-08-13T01:16:00.500Z'
+  updated_at: '2019-08-13T01:16:00.500Z'
+  contrast: 
+  votes_count: 1
+- id: 265873
+  color_one: "#694c13"
+  color_two: "#c6d7d9"
+  created_at: '2019-08-13T01:15:58.330Z'
+  updated_at: '2019-08-13T01:15:58.330Z'
+  contrast: 
+  votes_count: 1
+- id: 265872
+  color_one: "#0c7deb"
+  color_two: "#0e0700"
+  created_at: '2019-08-13T01:15:52.878Z'
+  updated_at: '2019-08-13T01:15:52.878Z'
+  contrast: 
+  votes_count: 1
+- id: 265871
+  color_one: "#4c8437"
+  color_two: "#050011"
+  created_at: '2019-08-13T01:15:47.496Z'
+  updated_at: '2019-08-13T01:15:47.496Z'
+  contrast: 
+  votes_count: 1
+- id: 265870
+  color_one: "#850428"
+  color_two: "#45e019"
+  created_at: '2019-08-13T01:15:45.598Z'
+  updated_at: '2019-08-13T01:15:45.598Z'
+  contrast: 
+  votes_count: 1
+- id: 265869
+  color_one: "#27b013"
+  color_two: "#1e1992"
+  created_at: '2019-08-13T01:15:43.538Z'
+  updated_at: '2019-08-13T01:15:43.538Z'
+  contrast: 
+  votes_count: 1
+- id: 265868
+  color_one: "#6bd214"
+  color_two: "#134602"
+  created_at: '2019-08-13T01:15:40.640Z'
+  updated_at: '2019-08-13T01:15:40.640Z'
+  contrast: 
+  votes_count: 1
+- id: 265867
+  color_one: "#36bdeb"
+  color_two: "#532e32"
+  created_at: '2019-08-13T01:15:27.941Z'
+  updated_at: '2019-08-13T01:15:27.941Z'
+  contrast: 
+  votes_count: 1
+- id: 265866
+  color_one: "#038e84"
+  color_two: "#041809"
+  created_at: '2019-08-13T01:15:25.975Z'
+  updated_at: '2019-08-13T01:15:25.975Z'
+  contrast: 
+  votes_count: 1
+- id: 265865
+  color_one: "#9c59af"
+  color_two: "#fcfceb"
+  created_at: '2019-08-13T00:45:17.937Z'
+  updated_at: '2019-08-13T00:45:17.937Z'
+  contrast: 
+  votes_count: 1
+- id: 265864
+  color_one: "#4b5f27"
+  color_two: "#96e450"
+  created_at: '2019-08-13T00:45:13.273Z'
+  updated_at: '2019-08-13T00:45:13.273Z'
+  contrast: 
+  votes_count: 1
+- id: 265831
+  color_one: "#252144"
+  color_two: "#c09959"
+  created_at: '2019-08-12T20:15:17.447Z'
+  updated_at: '2019-08-12T20:15:17.447Z'
+  contrast: 
+  votes_count: 1
+- id: 265830
+  color_one: "#d424f5"
+  color_two: "#0b0b2c"
+  created_at: '2019-08-12T19:43:17.889Z'
+  updated_at: '2019-08-12T19:43:17.889Z'
+  contrast: 
+  votes_count: 1
+- id: 265829
+  color_one: "#dba396"
+  color_two: "#3e1865"
+  created_at: '2019-08-12T19:43:15.960Z'
+  updated_at: '2019-08-12T19:43:15.960Z'
+  contrast: 
+  votes_count: 1
+- id: 265828
+  color_one: "#96abc9"
+  color_two: "#452028"
+  created_at: '2019-08-12T19:43:13.350Z'
+  updated_at: '2019-08-12T19:43:13.350Z'
+  contrast: 
+  votes_count: 1
+most_active_20:
+- id: 84967
+  color_one: "#b1e3e3"
+  color_two: "#6e4f9f"
+  created_at: '2016-07-21T00:36:52.010Z'
+  updated_at: '2016-07-21T00:36:52.010Z'
+  contrast: 
+  votes_count: 55
+- id: 85018
+  color_one: "#4d8763"
+  color_two: "#0c0129"
+  created_at: '2016-07-21T00:38:48.056Z'
+  updated_at: '2016-07-21T00:38:48.056Z'
+  contrast: 
+  votes_count: 46
+- id: 85017
+  color_one: "#3029ed"
+  color_two: "#88fd83"
+  created_at: '2016-07-21T00:38:48.021Z'
+  updated_at: '2016-07-21T00:38:48.021Z'
+  contrast: 
+  votes_count: 46
+- id: 85043
+  color_one: "#1dcff5"
+  color_two: "#220503"
+  created_at: '2016-07-21T00:40:58.763Z'
+  updated_at: '2016-07-21T00:40:58.763Z'
+  contrast: 
+  votes_count: 22
+- id: 85044
+  color_one: "#413913"
+  color_two: "#12bce8"
+  created_at: '2016-07-21T00:40:58.798Z'
+  updated_at: '2016-07-21T00:40:58.798Z'
+  contrast: 
+  votes_count: 22
+- id: 85046
+  color_one: "#08cb47"
+  color_two: "#1e2856"
+  created_at: '2016-07-21T00:40:58.832Z'
+  updated_at: '2016-07-21T00:40:58.832Z'
+  contrast: 
+  votes_count: 22
+- id: 85047
+  color_one: "#c5fe6a"
+  color_two: "#6e49cf"
+  created_at: '2016-07-21T00:40:58.827Z'
+  updated_at: '2016-07-21T00:40:58.827Z'
+  contrast: 
+  votes_count: 22
+- id: 84916
+  color_one: "#df516e"
+  color_two: "#0d0f02"
+  created_at: '2016-07-21T00:31:33.340Z'
+  updated_at: '2016-07-21T00:31:33.340Z'
+  contrast: 
+  votes_count: 16
+- id: 84917
+  color_one: "#559059"
+  color_two: "#360604"
+  created_at: '2016-07-21T00:31:33.350Z'
+  updated_at: '2016-07-21T00:31:33.350Z'
+  contrast: 
+  votes_count: 16
+- id: 84915
+  color_one: "#c16c40"
+  color_two: "#100a3c"
+  created_at: '2016-07-21T00:31:33.338Z'
+  updated_at: '2016-07-21T00:31:33.338Z'
+  contrast: 
+  votes_count: 15
+- id: 84924
+  color_one: "#060961"
+  color_two: "#f4f6c0"
+  created_at: '2016-07-21T00:32:13.498Z'
+  updated_at: '2016-07-21T00:32:13.498Z'
+  contrast: 
+  votes_count: 11
+- id: 84926
+  color_one: "#e044b3"
+  color_two: "#200012"
+  created_at: '2016-07-21T00:32:13.503Z'
+  updated_at: '2016-07-21T00:32:13.503Z'
+  contrast: 
+  votes_count: 11
+- id: 84930
+  color_one: "#700ce0"
+  color_two: "#eecd8a"
+  created_at: '2016-07-21T00:32:37.191Z'
+  updated_at: '2016-07-21T00:32:37.191Z'
+  contrast: 
+  votes_count: 10
+- id: 175
+  color_one: "#108084"
+  color_two: "#fafdfd"
+  created_at: '2016-06-02T18:02:33.944Z'
+  updated_at: '2016-06-03T15:34:06.955Z'
+  contrast: 
+  votes_count: 9
+- id: 84919
+  color_one: "#873a9a"
+  color_two: "#e1f7cb"
+  created_at: '2016-07-21T00:31:33.356Z'
+  updated_at: '2016-07-21T00:31:33.356Z'
+  contrast: 
+  votes_count: 8
+- id: 84944
+  color_one: "#03edfc"
+  color_two: "#070c86"
+  created_at: '2016-07-21T00:35:28.153Z'
+  updated_at: '2016-07-21T00:35:28.153Z'
+  contrast: 
+  votes_count: 6
+- id: 84946
+  color_one: "#09f15f"
+  color_two: "#910130"
+  created_at: '2016-07-21T00:35:28.285Z'
+  updated_at: '2016-07-21T00:35:28.285Z'
+  contrast: 
+  votes_count: 6
+- id: 1
+  color_one: "#111"
+  color_two: "#fafafa"
+  created_at: '2016-05-29T17:31:09.737Z'
+  updated_at: '2016-06-03T15:34:04.738Z'
+  contrast: 
+  votes_count: 5
+- id: 84943
+  color_one: "#cd51a3"
+  color_two: "#100d13"
+  created_at: '2016-07-21T00:35:28.152Z'
+  updated_at: '2016-07-21T00:35:28.152Z'
+  contrast: 
+  votes_count: 5
+- id: 139
+  color_one: "#006d4f"
+  color_two: "#f4eda2"
+  created_at: '2016-06-02T04:26:33.216Z'
+  updated_at: '2016-06-03T15:34:06.507Z'
+  contrast: 
+  votes_count: 4

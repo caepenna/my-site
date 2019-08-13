@@ -42,6 +42,12 @@ set :trailing_slash, false
 # ----------------------------------------------
 page "/sitemap.xml", :layout => false
 
+# a11y colors
+a = `curl "https://randoma11y.com/stats/"`
+File.open("data/medium.yml","w") do |file|
+  file.write JSON.parse(a).to_yaml
+end
+
 # Development-specific configuration
 # ----------------------------------------------
 configure :development do

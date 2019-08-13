@@ -1,0 +1,10 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "uglify": false,
+        "browsers": ["last 2 versions"]
+      }
+    }]
+  ]
+}
